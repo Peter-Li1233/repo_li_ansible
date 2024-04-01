@@ -1,2 +1,8 @@
-# repo_li_ansible
-Ansible Playbook Repository
+ _____________________
+< ANSIBLE IS AWESOME! >
+ ---------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
